@@ -1,4 +1,4 @@
-# ec2
+# Set up jupyter notebook server on ec2
 
 Set up jupyter notebook on ec2. [Here](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6) is a great article.
 
