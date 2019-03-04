@@ -1,4 +1,4 @@
-# ec2_s3
+# ec2
 
 Set up jupyter notebook on ec2. [Here](https://medium.com/@alexjsanchez/python-3-notebooks-on-aws-ec2-in-15-mostly-easy-steps-2ec5e662c6c6) is a great article.
 
@@ -11,3 +11,7 @@ We can use `nohup linuxcommand &` to run the notebook process at background.
 * `&` means run at background
 
 * `nohup` means ignore the hungup signal sent by terminal when we close it.
+
+# s3
+
+
